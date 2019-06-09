@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import subprocess, readline
 from datetime import date, datetime
 import sys, time, random, string, os
